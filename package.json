@@ -1,0 +1,22 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "MTG Bot to fetch card descriptions and prices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aachou3dev/mtg.git"
+  },
+  "author": "Aaron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aachou3dev/mtg/issues"
+  },
+  "homepage": "https://github.com/aachou3dev/mtg#readme",
+  "dependencies": {
+    "claudia-bot-builder": "^3.0.0"
+  }
+}
